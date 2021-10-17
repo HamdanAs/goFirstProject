@@ -1,0 +1,7 @@
+Bill breakdown: 
+cheese burger:            ...$6.77 
+cheese cake:              ...$7.99 
+coffee:                   ...$2.99 
+salad:                    ...$5 
+Tip:                      ...$5 
+Total:                    ...$27.75
